@@ -31,3 +31,7 @@ Site web pour le restaurant gastronomique "Le Quai Antique" à Chambéry.
 ## Diagramme de Classes
 
 ![Diagramme de Classe](assets/Diagrammes/Classes/Quai_Antique_Classes.drawio.png)
+
+## Diagramme de séquence : reservation
+
+![Diagramme de sequence](assets/Diagrammes/Sequences/quai_antique_sequence_reservation.drawio.png)
