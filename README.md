@@ -26,4 +26,4 @@ Site web pour le restaurant gastronomique "Le Quai Antique" à Chambéry.
 
 ## Diagramme de Cas d'Utilisation
 
-![Diagramme de Use Case](Quai_Antique_UseCase.drawio.png)
+![Diagramme de Use Case](assets/Diagrammes/Use_Case/Quai_Antique_UseCase.drawio.png)
