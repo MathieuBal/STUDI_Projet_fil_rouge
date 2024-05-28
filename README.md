@@ -23,3 +23,7 @@ Site web pour le restaurant gastronomique "Le Quai Antique" à Chambéry.
 ## Auteurs
 
 - Mathieu Balayé
+
+## Diagramme de Cas d'Utilisation
+
+![Diagramme de Use Case](Quai_Antique_UseCase.drawio.png)
